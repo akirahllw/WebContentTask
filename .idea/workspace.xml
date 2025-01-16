@@ -4,24 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51eeb62-e814-48e0-8b9a-597c077c3d68" name="Changes" comment="adding next.html and making first request">
-      <change afterPath="$PROJECT_DIR$/static/img/azula.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/iroh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/zuko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/next-script.js" afterDir="false" />
+    <list default="true" id="e51eeb62-e814-48e0-8b9a-597c077c3d68" name="Changes" comment="adding script to approach pictures of&#10;fire">
+      <change afterPath="$PROJECT_DIR$/static/img/aang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/bumi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/daili.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/katara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/kioshi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/korra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/tenzin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/toff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/unalaq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/zahir.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/air.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/earth.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/main-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/next-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/next-script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/next.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/next.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/water.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,24 +53,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Django Server.WebContentTask.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.WebContentTask.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rando\PycharmProjects\WebContentTask\static\img" />
@@ -122,6 +128,10 @@
       <workItem from="1736730152549" duration="42000" />
       <workItem from="1737043523801" duration="2021000" />
       <workItem from="1737048247210" duration="2250000" />
+      <workItem from="1737061873644" duration="4075000" />
+      <workItem from="1737065982755" duration="17000" />
+      <workItem from="1737066005330" duration="678000" />
+      <workItem from="1737066703754" duration="790000" />
     </task>
     <task id="LOCAL-00001" summary="adding next.html and making first request">
       <option name="closed" value="true" />
@@ -131,14 +141,34 @@
       <option name="project" value="LOCAL" />
       <updated>1736609381508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding script to approach pictures of&#10;fire">
+      <option name="closed" value="true" />
+      <created>1737061928592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737061928592</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding next.html and making first request" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding next.html and making first request" />
+    <MESSAGE value="adding script to approach pictures of&#10;fire" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding script to approach pictures of&#10;fire" />
   </component>
 </project>

@@ -7,9 +7,14 @@
 </head>
 <body>
 <header>
-<h1>
-    You are {{ request.GET.element }} bender
-</h1>
+    <button onclick="goBack()"> ← Go Back</button>
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+     <h1>You are <span id="element">{{ element }}</span> bender</h1>
 </header>
 <main>
     <div id="image-container">
