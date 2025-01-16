@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51eeb62-e814-48e0-8b9a-597c077c3d68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebContentTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/air.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/earth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/main-page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/next.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/water.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views.py" afterDir="false" />
+    <list default="true" id="e51eeb62-e814-48e0-8b9a-597c077c3d68" name="Changes" comment="adding next.html and making first request">
+      <change afterPath="$PROJECT_DIR$/static/img/azula.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/iroh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/zuko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/main-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/next-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/air.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/earth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/next.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/next.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/water.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +29,15 @@
         <option value="CSS File" />
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -62,6 +66,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rando\PycharmProjects\WebContentTask\static\img" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="WebContentTask" type="Python.DjangoServer" factoryName="Django server">
       <module name="WebContentTask" />
@@ -108,11 +117,28 @@
       <workItem from="1736203036425" duration="93000" />
       <workItem from="1736203149273" duration="3483000" />
       <workItem from="1736438462272" duration="4000" />
-      <workItem from="1736605347747" duration="3979000" />
+      <workItem from="1736605347747" duration="8706000" />
+      <workItem from="1736691855613" duration="6158000" />
+      <workItem from="1736730152549" duration="42000" />
+      <workItem from="1737043523801" duration="2021000" />
+      <workItem from="1737048247210" duration="2250000" />
     </task>
+    <task id="LOCAL-00001" summary="adding next.html and making first request">
+      <option name="closed" value="true" />
+      <created>1736609381508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736609381508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding next.html and making first request" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding next.html and making first request" />
   </component>
 </project>

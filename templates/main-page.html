@@ -19,7 +19,7 @@
 <h2 class = "title">Choose the element</h2>
 
 <div class = "container">
-    <form id="inputForm" action="{% url 'next' %}" method="get">
+    <form id="inputForm" action="{% url 'next' %}" method="get" onsubmit="return validateForm()">
 
         <div class = "text-input">
         <label>
@@ -30,12 +30,14 @@
 
         <label for="emoji-select">Choose an emoji:</label>
         <select id="emoji-select" name="emojis" required>
-            <option value="fire">🔥</option>
-            <option value="water">🌊</option>
-            <option value="earth">🗿</option>
-            <option value="air">💨</option>
+            <option id="emoji" value="fire">🔥</option>
+            <option id="emoji" value="water">🌊</option>
+            <option id="emoji" value="earth">🗿</option>
+            <option id="emoji" value="air">💨</option>
         </select>
     </form>
+
+    <script src="{% static 'js/main-script.js' %}"></script>
 
 </div>
 </body>
