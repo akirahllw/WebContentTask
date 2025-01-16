@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51eeb62-e814-48e0-8b9a-597c077c3d68" name="Changes" comment="adding script to approach pictures of&#10;fire">
-      <change afterPath="$PROJECT_DIR$/static/img/aang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/bumi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/daili.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/katara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/kioshi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/korra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/tenzin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/toff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/unalaq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/zahir.png" afterDir="false" />
+    <list default="true" id="e51eeb62-e814-48e0-8b9a-597c077c3d68" name="Changes" comment="finishing scripts and views.py">
+      <change afterPath="$PROJECT_DIR$/static/css/next-styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/next-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/next-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main-styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/next.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/next.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -131,7 +121,8 @@
       <workItem from="1737061873644" duration="4075000" />
       <workItem from="1737065982755" duration="17000" />
       <workItem from="1737066005330" duration="678000" />
-      <workItem from="1737066703754" duration="790000" />
+      <workItem from="1737066703754" duration="2165000" />
+      <workItem from="1737068901868" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="adding next.html and making first request">
       <option name="closed" value="true" />
@@ -149,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737061928592</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finishing scripts and views.py">
+      <option name="closed" value="true" />
+      <created>1737068214505</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737068214505</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding next.html and making first request" />
     <MESSAGE value="adding script to approach pictures of&#10;fire" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding script to approach pictures of&#10;fire" />
+    <MESSAGE value="finishing scripts and views.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing scripts and views.py" />
   </component>
 </project>
